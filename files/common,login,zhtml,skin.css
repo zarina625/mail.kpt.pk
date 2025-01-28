@@ -631,8 +631,8 @@ BODY{margin:0;}
 .ErrorScreen A:active{color:darkgreen;text-decoration:underline;}
 .ErrorScreen .decor1{display:none;}
 .ErrorScreen .decor2{display:none;}
-.center-small .ImgLoginBanner,.ImgAppBanner{background-repeat:no-repeat;background-position:left center;background-image:url(files/LoginBanner_white.png?v=230516040634);width:200px;height:35px;}
-.ImgLoginBanner{background-repeat:no-repeat;background-position:bottom left;background-image:url(files/LoginBanner_white.png?v=230516040634);width:440px;height:60px;}
+.center-small .ImgLoginBanner,.ImgAppBanner{background-repeat:no-repeat;background-position:left center;background-image:url(./LoginBanner_white.png?v=230516040634);width:200px;height:35px;}
+.ImgLoginBanner{background-repeat:no-repeat;background-position:bottom left;background-image:url(./LoginBanner_white.png?v=230516040634);width:440px;height:60px;}
 .console_inset_app_l .HSashThumb{margin-left:-2px;}
 .UserInfoLink{width:100%;text-align:left;white-space:nowrap;}
 .ZmPicker .ZToolbar{padding-top:1px;border-bottom:1px solid #797979;background-color:#737373;}
